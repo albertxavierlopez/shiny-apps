@@ -1,2 +1,3 @@
 # shiny-apps
-Shiny apps
+
+Some Shiny apps already made for different projects
